@@ -1,6 +1,6 @@
 # GYYMKHANA Restaurant Management,Hotel Management & E-Voting Using Flutter & Firebase
 
-This is a Flutter Application based on Python Server and Firebase Server. This App uses RTSP Link of Cameras to Stream the Camera footage and Python Sever is used to Process Video to Perform Facial recogntion and Pedestrian Detection annd generate Alert in case of Intrusion over line or Area over specific area drawn by user on Flutter App.
+This is a GymKhana-Go Application based on firebase database.
 
 ## Description
 GymKhana App includees restaurant managment,hotel management and voting based system. 
