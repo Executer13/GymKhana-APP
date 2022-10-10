@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "486443234609",
+    "firebase_url": "https://gujratgymkhana-8c687-default-rtdb.firebaseio.com",
+    "project_id": "gujratgymkhana-8c687",
+    "storage_bucket": "gujratgymkhana-8c687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486443234609:android:0561dde9120d2271e76c10",
+        "android_client_info": {
+          "package_name": "com.example.gymkhana_gujrat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486443234609-d05tet0lvpk3at9q97b77fo272099rd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gymkhana_gujrat",
+            "certificate_hash": "bd2c90ddb598ae874da4219099cbd8d9f8535420"
+          }
+        },
+        {
+          "client_id": "486443234609-4q26u5eecm7172jc2fnhkrd55uom5lhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrqGr4O1tShDxH35sRoDLuILogkXipdo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486443234609-4q26u5eecm7172jc2fnhkrd55uom5lhh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "486443234609-e20en9psai7ue1jefqkj92dvgte2ujh1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gymkhanaGujrat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486443234609:android:22e06ad817bb3391e76c10",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486443234609-4q26u5eecm7172jc2fnhkrd55uom5lhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrqGr4O1tShDxH35sRoDLuILogkXipdo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486443234609-4q26u5eecm7172jc2fnhkrd55uom5lhh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "486443234609-e20en9psai7ue1jefqkj92dvgte2ujh1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gymkhanaGujrat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
